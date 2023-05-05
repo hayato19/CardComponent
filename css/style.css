@@ -1,0 +1,18 @@
+.card-component-wrapper {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-component {
+    background: #fff;
+    width: 280px;
+    height: 360px;
+}
+
+.cookie {
+    width: 280px;
+    height: 200px;
+}
